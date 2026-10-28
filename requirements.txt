@@ -1,0 +1,7 @@
+# Not in AILYZE/requirements.txt: nothing in the app imports this package yet.
+# numpy and regex are already pinned there; the rest would be new dependencies.
+onnxruntime>=1.20
+tokenizers>=0.20
+huggingface_hub>=0.25
+numpy>=2.0
+regex>=2024.0
